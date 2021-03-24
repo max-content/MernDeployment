@@ -1,0 +1,21 @@
+body {
+  background-color: #29274c !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: #f5f9e9 !important;
+}
+
+label {
+  margin-right: 10px;
+}
+
+#flexy {
+  display: flex;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
